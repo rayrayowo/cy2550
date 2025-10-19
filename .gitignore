@@ -1,0 +1,25 @@
+.DS_Store
+SecLists.zip
+SecLists-master/
+rockyou.txt
+xato-net-10-million-passwords*
+darkc0de.txt
+probable-v2_*.txt
+hashcat.zip
+hc_rules/
+
+# hashcat 产物/中间文件/日志
+*.restore
+found_*.txt
+show_*.txt
+remaining.shadow
+remaining_names.txt
+all_names.txt
+solved_names.txt
+hashcat*.log
+
+# 截图与临时
+*.png
+*.jpg
+*.tmp
+*.bak
